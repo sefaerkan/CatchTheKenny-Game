@@ -1,2 +1,2 @@
 # Catch The Kenny Mobile Game
-High Score with Shared Preferences
+Save your highest score using Shared Preferences
